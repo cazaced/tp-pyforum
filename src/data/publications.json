@@ -1,0 +1,13 @@
+{
+    "1": {
+        "identifiant": 1,
+        "titre": "we",
+        "contenu": "we",
+        "date_creation": "2025-04-27 15:46:54",
+        "auteur_id": 1,
+        "forum_id": 1,
+        "commentaires": [
+            1
+        ]
+    }
+}
